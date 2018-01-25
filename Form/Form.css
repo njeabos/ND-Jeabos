@@ -1,0 +1,11 @@
+form li{
+	list-style: none;
+	margin-bottom: 20px;
+}
+
+label {
+	cursor: pointer;
+	color: #292929;
+	padding-bottom: 20px;
+	font-family: sans-serif;
+}
